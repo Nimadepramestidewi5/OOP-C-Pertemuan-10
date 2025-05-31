@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author LAB F
+ * @author Ni Made Pramesti Dewi
  */
 public class fMahasiswa extends javax.swing.JFrame {
 
