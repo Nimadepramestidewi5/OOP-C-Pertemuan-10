@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Archangela Chirani Yehan 
+ * @author Ni Made Pramesti Dewi
  * TGL : 23 MEI 2025
  */
 public class dbKoneksi {
