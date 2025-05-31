@@ -6,7 +6,7 @@ package pertemuan10;
 
 /**
  *
- * @author Archangela Chirani Yehan
+ * @author Ni Made Pramesti Dewi
  * TGL : 24 Mei 2025
  */
 public class Pertemuan10 {
